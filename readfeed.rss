@@ -1,46 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"
-  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <author>
-    <name>michalvalasek</name>
-  </author>
-  <id>https://github.com/michalvalasek/feeds/readfeed.rss</id>
-  <title>ReadFeed</title>
-  <updated>2022-04-22T17:04:03+02:00</updated>
-  <entry>
-    <id>https://rubyweekly.com/link/122573/1afad1b9dd</id>
-    <link href="https://rubyweekly.com/link/122573/1afad1b9dd"/>
-    <title>Introducing command_mapper</title>
-    <updated>2022-04-22T17:04:03+02:00</updated>
-    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
-  </entry>
-  <entry>
-    <id>https://rubyweekly.com/link/122571/1afad1b9dd</id>
-    <link href="https://rubyweekly.com/link/122571/1afad1b9dd"/>
-    <title>How to Add Filtering &amp; Pagination to Your Data Tables With Hotwire - YouTube</title>
-    <updated>2022-04-22T17:04:03+02:00</updated>
-    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
-  </entry>
-  <entry>
-    <id>https://rubyweekly.com/link/122564/1afad1b9dd</id>
-    <link href="https://rubyweekly.com/link/122564/1afad1b9dd"/>
-    <title>The underrated power of dry-schema</title>
-    <updated>2022-04-22T17:04:03+02:00</updated>
-    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
-  </entry>
-  <entry>
-    <id>https://rubyweekly.com/link/122563/1afad1b9dd</id>
-    <link href="https://rubyweekly.com/link/122563/1afad1b9dd"/>
-    <title>https://rubyweekly.com/link/122563/1afad1b9dd</title>
-    <updated>2022-04-22T17:04:03+02:00</updated>
-    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
-  </entry>
-  <entry>
-    <id>https://www.politico.eu/article/germany-inc-played-russian-roulette-and-lost-ukraine-war-energy-gas-trade/</id>
-    <link href="https://www.politico.eu/article/germany-inc-played-russian-roulette-and-lost-ukraine-war-energy-gas-trade/"/>
-    <title>How Germany Inc. played Russian roulette — and lost</title>
-    <updated>2022-04-22T17:04:03+02:00</updated>
-    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
-  </entry>
-  <dc:date>2022-04-22T17:04:03+02:00</dc:date>
-</feed>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>ReadFeed</title>
+    <link>https://github.com/michalvalasek/feeds/readfeed.rss</link>
+    <description>ReadFeed</description>
+    <pubDate>Fri, 22 Apr 2022 17:33:39 +0200</pubDate>
+    <item>
+      <title>Introducing command_mapper</title>
+      <link>https://rubyweekly.com/link/122573/1afad1b9dd</link>
+      <pubDate>Thu, 21 Apr 2022 17:37:07 +0000</pubDate>
+      <dc:date>2022-04-21T17:37:07+00:00</dc:date>
+    </item>
+    <item>
+      <title>How to Add Filtering &amp; Pagination to Your Data Tables With Hotwire - YouTube</title>
+      <link>https://rubyweekly.com/link/122571/1afad1b9dd</link>
+      <pubDate>Thu, 21 Apr 2022 17:36:46 +0000</pubDate>
+      <dc:date>2022-04-21T17:36:46+00:00</dc:date>
+    </item>
+    <item>
+      <title>The underrated power of dry-schema</title>
+      <link>https://rubyweekly.com/link/122564/1afad1b9dd</link>
+      <pubDate>Thu, 21 Apr 2022 17:36:00 +0000</pubDate>
+      <dc:date>2022-04-21T17:36:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>https://rubyweekly.com/link/122563/1afad1b9dd</title>
+      <link>https://rubyweekly.com/link/122563/1afad1b9dd</link>
+      <pubDate>Thu, 21 Apr 2022 17:35:52 +0000</pubDate>
+      <dc:date>2022-04-21T17:35:52+00:00</dc:date>
+    </item>
+    <item>
+      <title>How Germany Inc. played Russian roulette — and lost</title>
+      <link>https://www.politico.eu/article/germany-inc-played-russian-roulette-and-lost-ukraine-war-energy-gas-trade/</link>
+      <pubDate>Tue, 19 Apr 2022 21:47:31 +0000</pubDate>
+      <dc:date>2022-04-19T21:47:31+00:00</dc:date>
+    </item>
+    <item>
+      <title>https://www.nytimes.com/2022/04/07/opinion/germany-russia-ukraine-energy.html</title>
+      <link>https://www.nytimes.com/2022/04/07/opinion/germany-russia-ukraine-energy.html</link>
+      <pubDate>Tue, 19 Apr 2022 21:41:23 +0000</pubDate>
+      <dc:date>2022-04-19T21:41:23+00:00</dc:date>
+    </item>
+    <item>
+      <title>Putin’s useful German idiots</title>
+      <link>https://www.politico.eu/article/putin-merkel-germany-scholz-foreign-policy-ukraine-war-invasion-nord-stream-2/</link>
+      <pubDate>Tue, 19 Apr 2022 21:39:29 +0000</pubDate>
+      <dc:date>2022-04-19T21:39:29+00:00</dc:date>
+    </item>
+    <item>
+      <title>Why the Past 10 Years of American Life Have Been Uniquely Stupid</title>
+      <link>https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/</link>
+      <pubDate>Tue, 19 Apr 2022 13:00:48 +0000</pubDate>
+      <dc:date>2022-04-19T13:00:48+00:00</dc:date>
+    </item>
+    <item>
+      <title>https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear</title>
+      <link>https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear</link>
+      <pubDate>Sat, 16 Apr 2022 20:20:47 +0000</pubDate>
+      <dc:date>2022-04-16T20:20:47+00:00</dc:date>
+    </item>
+    <item>
+      <title>Why Ruby has Symbols</title>
+      <link>https://rubyweekly.com/link/122014/1afad1b9dd</link>
+      <pubDate>Thu, 07 Apr 2022 18:44:03 +0000</pubDate>
+      <dc:date>2022-04-07T18:44:03+00:00</dc:date>
+    </item>
+    <dc:date>2022-04-22T17:33:39+02:00</dc:date>
+  </channel>
+</rss>
