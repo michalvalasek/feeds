@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>michalvalasek</name>
+  </author>
+  <id>https://github.com/michalvalasek/feeds/readfeed.rss</id>
+  <title>ReadFeed</title>
+  <updated>2022-04-22T17:04:03+02:00</updated>
+  <entry>
+    <id>https://rubyweekly.com/link/122573/1afad1b9dd</id>
+    <link href="https://rubyweekly.com/link/122573/1afad1b9dd"/>
+    <title>Introducing command_mapper</title>
+    <updated>2022-04-22T17:04:03+02:00</updated>
+    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://rubyweekly.com/link/122571/1afad1b9dd</id>
+    <link href="https://rubyweekly.com/link/122571/1afad1b9dd"/>
+    <title>How to Add Filtering &amp; Pagination to Your Data Tables With Hotwire - YouTube</title>
+    <updated>2022-04-22T17:04:03+02:00</updated>
+    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://rubyweekly.com/link/122564/1afad1b9dd</id>
+    <link href="https://rubyweekly.com/link/122564/1afad1b9dd"/>
+    <title>The underrated power of dry-schema</title>
+    <updated>2022-04-22T17:04:03+02:00</updated>
+    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://rubyweekly.com/link/122563/1afad1b9dd</id>
+    <link href="https://rubyweekly.com/link/122563/1afad1b9dd"/>
+    <title>https://rubyweekly.com/link/122563/1afad1b9dd</title>
+    <updated>2022-04-22T17:04:03+02:00</updated>
+    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://www.politico.eu/article/germany-inc-played-russian-roulette-and-lost-ukraine-war-energy-gas-trade/</id>
+    <link href="https://www.politico.eu/article/germany-inc-played-russian-roulette-and-lost-ukraine-war-energy-gas-trade/"/>
+    <title>How Germany Inc. played Russian roulette — and lost</title>
+    <updated>2022-04-22T17:04:03+02:00</updated>
+    <dc:date>2022-04-22T17:04:03+02:00</dc:date>
+  </entry>
+  <dc:date>2022-04-22T17:04:03+02:00</dc:date>
+</feed>
